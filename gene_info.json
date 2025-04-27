@@ -1,0 +1,8 @@
+{
+    "Gene_ID": 128,
+    "Gene_Symbol": "ADH5",
+    "Description": "alcohol dehydrogenase 5 (class III), chi polypeptide",
+    "Chromosome_Location": "4q23",
+    "Taxonomy_ID": 9606,
+    "Summary": "This gene encodes a member of the alcohol dehydrogenase family. Members of this family metabolize a wide variety of substrates, including ethanol, retinol, other aliphatic alcohols, hydroxysteroids, and lipid peroxidation products. The encoded protein forms a homodimer. It has virtually no activity for ethanol oxidation, but exhibits high activity for oxidation of long-chain primary alcohols and for oxidation of S-hydroxymethyl-glutathione, a spontaneous adduct between formaldehyde and glutathione. This enzyme is an important component of cellular metabolism for the elimination of formaldehyde, a potent irritant and sensitizing agent that causes lacrymation, rhinitis, pharyngitis, and contact dermatitis. The human genome contains several non-transcribed pseudogenes related to this gene. [provided by RefSeq, Oct 2008]"
+}
